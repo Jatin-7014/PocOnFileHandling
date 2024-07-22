@@ -1,0 +1,14 @@
+D:\C#\PocFileHandlingHtml\bin\Debug\net8.0\PocFileHandlingHtml.exe
+D:\C#\PocFileHandlingHtml\bin\Debug\net8.0\PocFileHandlingHtml.deps.json
+D:\C#\PocFileHandlingHtml\bin\Debug\net8.0\PocFileHandlingHtml.runtimeconfig.json
+D:\C#\PocFileHandlingHtml\bin\Debug\net8.0\PocFileHandlingHtml.dll
+D:\C#\PocFileHandlingHtml\bin\Debug\net8.0\PocFileHandlingHtml.pdb
+D:\C#\PocFileHandlingHtml\obj\Debug\net8.0\PocFileHandlingHtml.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PocFileHandlingHtml\obj\Debug\net8.0\PocFileHandlingHtml.AssemblyInfoInputs.cache
+D:\C#\PocFileHandlingHtml\obj\Debug\net8.0\PocFileHandlingHtml.AssemblyInfo.cs
+D:\C#\PocFileHandlingHtml\obj\Debug\net8.0\PocFileHandlingHtml.csproj.CoreCompileInputs.cache
+D:\C#\PocFileHandlingHtml\obj\Debug\net8.0\PocFileHandlingHtml.dll
+D:\C#\PocFileHandlingHtml\obj\Debug\net8.0\refint\PocFileHandlingHtml.dll
+D:\C#\PocFileHandlingHtml\obj\Debug\net8.0\PocFileHandlingHtml.pdb
+D:\C#\PocFileHandlingHtml\obj\Debug\net8.0\PocFileHandlingHtml.genruntimeconfig.cache
+D:\C#\PocFileHandlingHtml\obj\Debug\net8.0\ref\PocFileHandlingHtml.dll

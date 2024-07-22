@@ -1,0 +1,14 @@
+D:\C#\FileHandlingApp\bin\Debug\net8.0\FileHandlingApp.exe
+D:\C#\FileHandlingApp\bin\Debug\net8.0\FileHandlingApp.deps.json
+D:\C#\FileHandlingApp\bin\Debug\net8.0\FileHandlingApp.runtimeconfig.json
+D:\C#\FileHandlingApp\bin\Debug\net8.0\FileHandlingApp.dll
+D:\C#\FileHandlingApp\bin\Debug\net8.0\FileHandlingApp.pdb
+D:\C#\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.AssemblyInfoInputs.cache
+D:\C#\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.AssemblyInfo.cs
+D:\C#\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.csproj.CoreCompileInputs.cache
+D:\C#\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.dll
+D:\C#\FileHandlingApp\obj\Debug\net8.0\refint\FileHandlingApp.dll
+D:\C#\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.pdb
+D:\C#\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.genruntimeconfig.cache
+D:\C#\FileHandlingApp\obj\Debug\net8.0\ref\FileHandlingApp.dll

@@ -1,0 +1,28 @@
+D:\C#\FileHandling\bin\Debug\net8.0\FileHandling.exe
+D:\C#\FileHandling\bin\Debug\net8.0\FileHandling.deps.json
+D:\C#\FileHandling\bin\Debug\net8.0\FileHandling.runtimeconfig.json
+D:\C#\FileHandling\bin\Debug\net8.0\FileHandling.dll
+D:\C#\FileHandling\bin\Debug\net8.0\FileHandling.pdb
+D:\C#\FileHandling\obj\Debug\net8.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FileHandling\obj\Debug\net8.0\FileHandling.AssemblyInfoInputs.cache
+D:\C#\FileHandling\obj\Debug\net8.0\FileHandling.AssemblyInfo.cs
+D:\C#\FileHandling\obj\Debug\net8.0\FileHandling.csproj.CoreCompileInputs.cache
+D:\C#\FileHandling\obj\Debug\net8.0\FileHandling.dll
+D:\C#\FileHandling\obj\Debug\net8.0\refint\FileHandling.dll
+D:\C#\FileHandling\obj\Debug\net8.0\FileHandling.pdb
+D:\C#\FileHandling\obj\Debug\net8.0\FileHandling.genruntimeconfig.cache
+D:\C#\FileHandling\obj\Debug\net8.0\ref\FileHandling.dll
+D:\C# github\PocOnFileHandling\Poc on Readwrite\bin\Debug\net8.0\FileHandling.exe
+D:\C# github\PocOnFileHandling\Poc on Readwrite\bin\Debug\net8.0\FileHandling.deps.json
+D:\C# github\PocOnFileHandling\Poc on Readwrite\bin\Debug\net8.0\FileHandling.runtimeconfig.json
+D:\C# github\PocOnFileHandling\Poc on Readwrite\bin\Debug\net8.0\FileHandling.dll
+D:\C# github\PocOnFileHandling\Poc on Readwrite\bin\Debug\net8.0\FileHandling.pdb
+D:\C# github\PocOnFileHandling\Poc on Readwrite\obj\Debug\net8.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# github\PocOnFileHandling\Poc on Readwrite\obj\Debug\net8.0\FileHandling.AssemblyInfoInputs.cache
+D:\C# github\PocOnFileHandling\Poc on Readwrite\obj\Debug\net8.0\FileHandling.AssemblyInfo.cs
+D:\C# github\PocOnFileHandling\Poc on Readwrite\obj\Debug\net8.0\FileHandling.csproj.CoreCompileInputs.cache
+D:\C# github\PocOnFileHandling\Poc on Readwrite\obj\Debug\net8.0\FileHandling.dll
+D:\C# github\PocOnFileHandling\Poc on Readwrite\obj\Debug\net8.0\refint\FileHandling.dll
+D:\C# github\PocOnFileHandling\Poc on Readwrite\obj\Debug\net8.0\FileHandling.pdb
+D:\C# github\PocOnFileHandling\Poc on Readwrite\obj\Debug\net8.0\FileHandling.genruntimeconfig.cache
+D:\C# github\PocOnFileHandling\Poc on Readwrite\obj\Debug\net8.0\ref\FileHandling.dll
